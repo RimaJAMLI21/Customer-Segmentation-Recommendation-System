@@ -1,2 +1,3 @@
 # Customer-Segmentation-Recommendation-System
-![plot](Slide3.png)
+![](Slide3.png)
+![Screenshot](Slide3.png)
